@@ -3,7 +3,7 @@
 An Android marketplace app for buying and selling university literature.  
 The app features a full Java-based Android frontend and a Flask + SQLAlchemy Python backend with SQLite. Users can browse listings, chat with sellers, and manage their own items seamlessly.
 
-![Java](https://img.shields.io/badge/Java-8-blue) ![Python](https://img.shields.io/badge/Python-3.12-blue) ![Flask](https://img.shields.io/badge/Flask-2.3-blue)
+![Java](https://img.shields.io/badge/Java-8-blue) ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Flask](https://img.shields.io/badge/Flask-2.3-blue)
 
 ## Preview
 ![screenshot](screenshots/sign_in.png)
